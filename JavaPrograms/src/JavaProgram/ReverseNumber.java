@@ -6,6 +6,7 @@ public class ReverseNumber {
 
 	public static void main(String[] args) {
  int rem,rev=0;
+ //reverse number
 @SuppressWarnings("resource")
 Scanner scr= new Scanner(System.in);
 int n=scr.nextInt();
