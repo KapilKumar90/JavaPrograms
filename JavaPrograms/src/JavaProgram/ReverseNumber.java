@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ReverseNumber {
 
 	public static void main(String[] args) {
- int rem,rev=1;
+ int rem,rev=0;
 @SuppressWarnings("resource")
 Scanner scr= new Scanner(System.in);
 int n=scr.nextInt();
