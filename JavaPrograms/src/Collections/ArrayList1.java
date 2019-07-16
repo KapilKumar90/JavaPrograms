@@ -1,11 +1,11 @@
 package Collections;
 import java.util.*;
 
-public class ArrayList {
+public class ArrayList1 {
 
 	public static void main(String[] args) { 
 		
-		ArrayList alist=new ArrayList(); 
+		ArrayList<String> alist=new ArrayList<>(); 
 	      alist.add("Steve");
 	      alist.add("Tim");
 	      alist.add("Lucy");
